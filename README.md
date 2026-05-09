@@ -49,9 +49,9 @@ ayush = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=snixxfs&show_icons=true&theme=transparent&hide_border=true&title_color=e8c547&text_color=c8c4b8&icon_color=e8c547&bg_color=05050a&include_all_commits=true&count_private=true&ring_color=e8c547" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=snixxfs&show_icons=true&hide_border=true&title_color=e8c547&text_color=c8c4b8&icon_color=e8c547&bg_color=05050a&count_private=true&theme=dark&cache_seconds=1800" alt="stats"/>
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snixxfs&layout=compact&theme=transparent&hide_border=true&title_color=e8c547&text_color=c8c4b8&bg_color=05050a&langs_count=8&card_width=300" alt="langs"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snixxfs&layout=compact&hide_border=true&title_color=e8c547&text_color=c8c4b8&bg_color=05050a&langs_count=8&theme=dark&cache_seconds=1800" alt="langs"/>
 
 </div>
 
