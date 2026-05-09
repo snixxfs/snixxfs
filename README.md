@@ -12,9 +12,11 @@
 <!-- TYPING ANIMATION -->
 <a href="https://ayush-sk.vercel.app"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E8C547&center=true&vCenter=true&width=700&lines=AI+builder+at+RV+University%2C+Bengaluru;closed+12+sponsors+including+Mercedes-Benz+and+Red+Bull;competed+in+national+hackathons+across+India;organised+INNOVITUS+2026+at+RVU;IoT+%2B+LLMs+%2B+automation+%2B+whatever+ships" alt="typing"/> </a>
 
-<img src="https://komarev.com/ghpvc/?username=snixxfs&style=flat-square&color=e8c547&label=profile+views" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=snixxfs&style=flat-square&color=e8c547&label=profile+views&v=2" alt="views"/>
 &nbsp;
-<a href="https://github.com/snixxfs?tab=followers"><img src="https://img.shields.io/github/followers/snixxfs?style=flat-square&color=e8c547&labelColor=05050a&label=followers" alt="followers"/></a>
+<a href="https://github.com/snixxfs?tab=followers">
+  <img src="https://img.shields.io/github/followers/snixxfs?style=flat-square&color=e8c547&labelColor=05050a&label=followers&v=2" alt="followers"/>
+</a>
 
 <br/><br/>
 
