@@ -1,23 +1,72 @@
-<h1 align="center">Hi 👋, I'm AYUSH S K</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/RbDKaczqWovIugyJmW.webp">
+# Ayush S Kulkarni
 
-- 🔭 I’m currently working on **Stress-Free Coding Buddy**
+**Building things that work. Closing deals that shouldn't be possible. Organising events for 500+ people. Sometimes all in the same week.**
 
-- 🌱 I’m currently learning **Next js, React and Go**
+&nbsp;
 
-- 📫 How to reach me **ayushak12n@gmail.com**
+```python
+ayush = {
+    "currently"  : "CSE @ RV University · AI/ML · Finance Minor",
+    "building"   : ["AI bots", "IoT systems", "automation workflows"],
+    "running"    : ["Sponsorships & PR @ E-Cell", "Club Advisor @ PressCorps"],
+    "won"        : "AI Build Sprint — 5 winners out of 60+ teams",
+    "hosted"     : "INNOVITUS 2026 — 24hr National Hackathon @ RVU",
+    "portfolio"  : "https://ayush-sk.vercel.app",
+}
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/snixxfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snixxfs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayushsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushsk" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush5.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush5.7" height="30" width="40" /></a>
-</p>
+&nbsp;
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## What I've shipped
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snixxfs&show_icons=true&locale=en&layout=compact" alt="snixxfs" /></p>
+| Project | Stack | What it does |
+|---|---|---|
+| **Smart Trash Collector** | Arduino · ESP8266 · IoT | Autonomous rover that sorts wet/dry waste — 90% accuracy, 4.5s per cycle |
+| **PharmaGuard** | Python · ML · Bioinformatics | Pharmacogenomic risk predictor — built in 24hrs at RIFT '26 |
+| **AI Startup Evaluator** | Python · Telegram · OpenRouter | Drop an idea, get market size + risks + verdict instantly |
+| **AI Tax Assistant** | Python · Mistral · Telegram | Calculates India new regime tax and suggests savings |
+| **BTC Strategy Backtester** | Python · Pandas · Matplotlib | EMA200 + RSI signals on 15-min BTC candles |
+| **Crypto CRC Automation** | n8n · HMAC-SHA256 · ngrok | Twitter CRC webhook challenge replicated in n8n |
+| **GDG RVU Website** | HTML · CSS · JS | Built and shipped — live at gdg-rvu.onrender.com |
+| **Vision Rover** | ESP8266 · C++ | WiFi robot — 3rd place, KLE Inter-college Hackathon |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snixxfs&show_icons=true&locale=en" alt="snixxfs" /></p>
+&nbsp;
+
+## Things that actually happened
+
+**Closed 12 sponsors for a college fest.** Mercedes-Benz, Red Bull, TVS Motors, Cisco, Nokia, JustVend, RunAnywhere, MileTech, EasyBites by Empire, Belgium Waffle, Atty's Bakery and Physics Wallah. All cold outreach. About a month.
+
+**Got into a closed hackathon by pitching a collab.** RIFT '26 registrations were done. DM'd the PW team directly and got spots for my whole team.
+
+**Walked into the Mercedes-Benz Karnataka regional office.** Met the head. Got the sponsorship.
+
+**Got into an invite-only founders meetup at 17.** Cold messaged the organiser with an idea. Got personally invited.
+
+**Organised INNOVITUS 2026.** 24-hour national hackathon at RV University. Judges from Morgan Stanley, Salesforce, iTriangle and Progress.
+
+&nbsp;
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-05050a?style=flat-square&logo=python&logoColor=e8c547)
+![JavaScript](https://img.shields.io/badge/JavaScript-05050a?style=flat-square&logo=javascript&logoColor=e8c547)
+![C++](https://img.shields.io/badge/C++-05050a?style=flat-square&logo=cplusplus&logoColor=e8c547)
+![Arduino](https://img.shields.io/badge/Arduino-05050a?style=flat-square&logo=arduino&logoColor=e8c547)
+![AWS](https://img.shields.io/badge/AWS-05050a?style=flat-square&logo=amazonaws&logoColor=e8c547)
+![GCP](https://img.shields.io/badge/GCP-05050a?style=flat-square&logo=googlecloud&logoColor=e8c547)
+![MySQL](https://img.shields.io/badge/MySQL-05050a?style=flat-square&logo=mysql&logoColor=e8c547)
+![Figma](https://img.shields.io/badge/Figma-05050a?style=flat-square&logo=figma&logoColor=e8c547)
+![n8n](https://img.shields.io/badge/n8n-05050a?style=flat-square&logo=n8n&logoColor=e8c547)
+![Pandas](https://img.shields.io/badge/Pandas-05050a?style=flat-square&logo=pandas&logoColor=e8c547)
+
+&nbsp;
+
+## Find me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ayush--sk.vercel.app-e8c547?style=flat-square&labelColor=05050a)](https://ayush-sk.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushsk-e8c547?style=flat-square&logo=linkedin&logoColor=e8c547&labelColor=05050a)](https://linkedin.com/in/ayushsk)
+[![Email](https://img.shields.io/badge/Email-ayushak12n@gmail.com-e8c547?style=flat-square&logo=gmail&logoColor=e8c547&labelColor=05050a)](mailto:ayushak12n@gmail.com)
+
+&nbsp;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=snixxfs&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=05050a&title_color=e8c547&text_color=c8c4b8&icon_color=e8c547)
