@@ -49,9 +49,11 @@ ayush = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=snixxfs&show_icons=true&hide_border=true&title_color=e8c547&text_color=c8c4b8&icon_color=e8c547&bg_color=05050a&count_private=true&theme=dark&cache_seconds=1800" alt="stats"/>
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snixxfs&layout=compact&hide_border=true&title_color=e8c547&text_color=c8c4b8&bg_color=05050a&langs_count=8&theme=dark&cache_seconds=1800" alt="langs"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snixxfs&theme=transparent" width="96%" alt="profile summary"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snixxfs&theme=transparent" width="32%" alt="repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snixxfs&theme=transparent" width="32%" alt="commit language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snixxfs&theme=transparent&utcOffset=5.5" width="32%" alt="productive time"/>
 
 </div>
 
