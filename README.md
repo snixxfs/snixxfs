@@ -10,9 +10,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e8c547&height=200&section=header&text=Ayush&fontSize=52&fontColor=05050a&fontAlignY=38&desc=builder%20%2F%20closer%20%2F%20organiser&descAlignY=58&descSize=18&descColor=05050a&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E8C547&center=true&vCenter=true&width=700&lines=AI+builder;closed+12+sponsors+through+cold+outreach;competed+in+national+hackathons;organised+24hr+hackathons;IoT+%2B+LLMs+%2B+automation+%2B+whatever+ships" alt="typing"/>
-
-<br/>
+<a href="https://ayush-sk.vercel.app"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E8C547&center=true&vCenter=true&width=700&lines=AI+builder+at+RV+University%2C+Bengaluru;closed+12+sponsors+including+Mercedes-Benz+and+Red+Bull;competed+in+national+hackathons+across+India;organised+INNOVITUS+2026+at+RVU;IoT+%2B+LLMs+%2B+automation+%2B+whatever+ships" alt="typing"/> </a>
 
 <img src="https://komarev.com/ghpvc/?username=snixxfs&style=flat-square&color=e8c547&label=profile+views" alt="views"/>
 &nbsp;
